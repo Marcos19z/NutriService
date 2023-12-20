@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Controlador","c":"controlador","l":"controlador()","u":"%3Cinit%3E()"},{"p":"NutriserviceMain","c":"Main","l":"Main()","u":"%3Cinit%3E()"},{"p":"NutriserviceMain","c":"Main","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"Modelo","c":"modelo","l":"modelo()","u":"%3Cinit%3E()"}];updateSearchResults();
